@@ -3,3 +3,8 @@ print("hello world..")
     print "get to work !"
   else
     print "note to work"
+number=10
+while number>0 :
+  print(number)
+  number--
+ 

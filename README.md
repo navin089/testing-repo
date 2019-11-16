@@ -1,3 +1,3 @@
 # testing-repo
 testing github repo
-my first code in python, just a sample code 
+my first code in python, c and javascript. just a sample code 
